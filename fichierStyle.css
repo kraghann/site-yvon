@@ -56,6 +56,28 @@
    text-align:center;
  }
 
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
  /*g{ 
   position: relative;
   left: 50%;
