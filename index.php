@@ -82,8 +82,6 @@
 		<div class="w3-row-padding  w3-center  w3-padding-64 w3-theme-l1" id="work">
 			<h2>Compétences :</h2>
 			
-			<!--<div class="w3-row-padding w3-center w3-padding-64" id="pricing">
-			<h2>Expériences :</h2>-->
 
 			
 
